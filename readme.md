@@ -18,13 +18,13 @@
 ### Instalacja
 
 ```bash
-composer require veriael/flarum-polish
+composer require veriael/flarum-pl
 ```
 
 ### Aktualizowanie
 
 ```bash
-composer update veriael/flarum-polish
+composer update veriael/flarum-pl
 php flarum migrate
 php flarum cache:clear
 ```
@@ -33,7 +33,7 @@ php flarum cache:clear
 
 Aby włączyć, wystarczy udać się do panelu administratora, po lewej kliknąć zakładkę "Extensions" i odnaleźć wśród innych rozszerzeń "Język Polski", po czym go zaznaczyć.
 
-Teraz czyścimy cache przeglądarki i gotowe! Możemy wybrać język polski z listy w prawym górnym rogu forum...
+Możemy wybrać język polski z listy w prawym górnym rogu forum...
 
 ...albo ustawiamy język polski jako domyślny dla naszego forum:
 Wchodzimy w "Podstawy", później znajdujemy "Domyślny język", wybieramy z listy "Język polski" i zatwierdzamy.
@@ -41,8 +41,5 @@ Wchodzimy w "Podstawy", później znajdujemy "Domyślny język", wybieramy z lis
 
 ### Przydatne linki
 
-- [changelog](https://github.com/flagrow/masquerade/blob/master/changelog.md)
-- [on github](https://github.com/flagrow/masquerade)
-- [on packagist](http://packagist.com/packages/flagrow/masquerade)
-- [issues](https://github.com/flagrow/masquerade/issues)
+- [on packagist](https://packagist.org/packages/veriael/flarum-polish)
 
