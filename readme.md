@@ -18,13 +18,13 @@
 ### Instalacja
 
 ```bash
-composer require veriael/flarum-pl
+composer require veriael/flarum-polish
 ```
 
 ### Aktualizowanie
 
 ```bash
-composer update veriael/flarum-pl
+composer update veriael/flarum-polish
 php flarum migrate
 php flarum cache:clear
 ```
