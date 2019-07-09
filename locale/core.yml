@@ -110,7 +110,7 @@ core:
       ses_heading: Ustawienia SES
       smtp_heading: Ustawienia SMTP
       submit_button: => core.ref.save_changes
-      text: Skonfiguruj driver, ustawienia i adresy, których twoje forum będzie używać do wysyłania maili.
+      text: Skonfiguruj nośnik, ustawienia i adresy, których twoje forum będzie używać do wysyłania maili.
 
     # These translations are used in the Extensions page.
     extensions:
@@ -158,7 +158,7 @@ core:
       read_heading: Czytaj
       rename_discussions_label: Zmieniaj tytuły dyskusji
       reply_to_discussions_label: Odpowiadaj na dyskusje
-      sign_up_label: Rejestruj się
+      sign_up_label: Rejestracja
       start_discussions_label: Rozpoczynaj dyskusje
       view_discussions_label: Przeglądaj dyskusje
       view_last_seen_at_label: Zobacz, kiedy użytkownik był ostatnio aktywny
@@ -208,8 +208,8 @@ core:
       close_tooltip: Zamknij
       exit_full_screen_tooltip: Wyłącz pełny ekran
       full_screen_tooltip: Pełny ekran
-      minimize_tooltip: Zminimalizuj
-      preview_tooltip: Podejrzyj
+      minimize_tooltip: Minimalizuj
+      preview_tooltip: Podgląd
 
     # These translations are used by the composer when starting a discussion.
     composer_discussion:
@@ -250,8 +250,8 @@ core:
       empty_text: Wygląda na to, że nie ma tu żadnych dyskusji.
       load_more_button: => core.ref.load_more
       mark_as_read_tooltip: Oznacz jako przeczytane
-      replied_text: "{username} replied {ago}"
-      started_text: "{username} started {ago}"
+      replied_text: "{username} odpowiedział {ago}"
+      started_text: "{username} rozpoczął {ago}"
 
     # These translations are used in the Edit User modal dialog (admin function).
     edit_user:
@@ -339,7 +339,7 @@ core:
 
     # These translations are used in the scrubber to the right of the post stream.
     post_scrubber:
-      now_link: Now
+      now_link: Teraz
       original_post_link: Oryginalny post
       unread_text: "Nieprzeczytanych: {count}"
       viewing_text: "{index} z {count}|{index} z {count}"
