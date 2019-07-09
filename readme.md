@@ -1,6 +1,6 @@
 # Polish Language Extension
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/flagrow/masquerade/license.md) [![Latest Stable Version](https://img.shields.io/packagist/v/Veriael/flarum-polish.svg)](https://github.com/Veriael/flarum-polish)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Veriael/flarum-pl/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/Veriael/flarum-polish.svg)](https://github.com/Veriael/flarum-polish)
 
 **PL** Polska paczka językowa Flarum. Zawiera:
 
