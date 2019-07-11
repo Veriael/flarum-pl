@@ -6,28 +6,28 @@
 
 - Wszystkie tłumaczenia forum,
 - Tłumaczenia panelu administratora (ACP),
-- Tłumaczenia wszystkich domyślnych rozszerzeń dostarczanych wraz z instalacją Flarum.
+- Tłumaczenia wszystkich domyślnych rozszerzeń dostarczanych wraz z instalacją Flarum,
+- Kilka tłumaczeń dla rozszerzeń społeczności, z listą w [dyskusji na forum Flarum](https://discuss.flarum.org/d/6548-j-zyk-polski-polish-language-extension).
 
 **EN** Polish language pack for Flarum. Contains:
 
 - All forum translations,
 - Admin control panel (ACP) translations,
-- Translations of all default extensions provided with Flarum installation.
+- Translations of all default extensions provided with Flarum installation,
+- Some community extensions translations with list provided in [Flarum Community discussion](https://discuss.flarum.org/d/6548-j-zyk-polski-polish-language-extension).
 
-
-### Instalacja
+### Instalacja / Installing
 
 ```bash
 composer require veriael/flarum-polish
 ```
 
-### Aktualizowanie
+### Aktualizowanie / Updating
 
 ```bash
 composer update veriael/flarum-polish
-php flarum migrate
-php flarum cache:clear
 ```
+Następnie wyłączyć i włączyć / Then re-enable
 
 ### Włączenie
 
@@ -39,7 +39,8 @@ Możemy wybrać język polski z listy w prawym górnym rogu forum...
 Wchodzimy w "Podstawy", później znajdujemy "Domyślny język", wybieramy z listy "Język polski" i zatwierdzamy.
 
 
-### Przydatne linki
+### Przydatne linki / Useful links
 
+- [on flarum community](https://discuss.flarum.org/d/6548-j-zyk-polski-polish-language-extension)
 - [on packagist](https://packagist.org/packages/veriael/flarum-polish)
 
