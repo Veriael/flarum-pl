@@ -29,7 +29,7 @@ fof-gamification:
       see_votes_label: Przeglądaj pozytywne/negatywne głosy
       see_ranking_page: Przeglądaj stronę z rankingiem
     nav:
-      desc: "Grywalizacja" dla twojej społeczności Flarum.
+      desc: Grywalizacja dla twojej społeczności Flarum.
     page:
       rankings:
         blocked:
