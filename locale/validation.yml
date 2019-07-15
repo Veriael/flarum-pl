@@ -67,8 +67,8 @@ validation:
   min:
     numeric: ":attribute musi mieć co najmniej :min."
     file: ":attribute musi ważyć co najmniej :min kilobajtów."
-    string: ":attribute musi mieć co najmniej :min znaków."
-    array: ":attribute musi mieć co najmniej :min elementów."
+    string: ":attribute musi mieć co najmniej :min znaki."
+    array: ":attribute musi mieć co najmniej :min elementy."
   not_in: "Wybrany :attribute jest nieprawidłowy."
   not_regex: "Format :attribute jest nieprawidłowy."
   numeric: ":attribute musi być numerem."
