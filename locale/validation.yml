@@ -99,9 +99,9 @@ validation:
     username: Nazwa użytkownika
     password: Hasło
     email: Email
-    title: tytuł
-    content: zawartość
-    name_singular: pojedyncza nazwa
-    name_plural: mnoga nazwa
-    tag_count_primary: liczba tagów podstawowych
-    tag_count_secondary: liczba tagów pobocznych
+    title: Tytuł
+    content: Zawartość
+    name_singular: Pojedyncza nazwa
+    name_plural: Mnoga nazwa
+    tag_count_primary: Liczba tagów podstawowych
+    tag_count_secondary: Liczba tagów pobocznych
