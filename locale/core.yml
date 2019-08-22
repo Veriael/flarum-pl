@@ -303,7 +303,7 @@ core:
       newest_button: Najnowsze
       oldest_button: Najstarsze
       relevance_button: Najbardziej trafne
-      top_button: Najaktywniejsze
+      top_button: Najbardziej aktywne
 
     # These translations are used in the Log In modal dialog.
     log_in:
