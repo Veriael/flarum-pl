@@ -26,12 +26,9 @@ composer require veriael/flarum-polish
 ```
 
 ### Aktualizowanie / Updating
-
-- ```bash
-composer remove veriael/flarum-polish
-```
-+ ```bash
-composer require veriael/flarum-polish
+```diff
+- composer remove veriael/flarum-polish
++ composer require veriael/flarum-polish
 ```
 
 Następnie wyłączyć i włączyć / Then re-enable
