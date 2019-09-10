@@ -33,7 +33,7 @@ composer require veriael/flarum-polish
 
 Następnie wyłączyć i włączyć / Then re-enable
 
-### Włączenie
+### Jak włączyć?
 
 Aby włączyć, wystarczy udać się do panelu administratora, po lewej kliknąć zakładkę "Extensions" i odnaleźć wśród innych rozszerzeń "Język Polski", po czym go zaznaczyć.
 
