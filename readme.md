@@ -1,9 +1,9 @@
-# Polish Language Extension
+# Język polski [Polish Language Extension]
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Veriael/flarum-pl/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/Veriael/flarum-polish.svg)](https://github.com/Veriael/flarum-pl)
 [![Packagist](https://img.shields.io/packagist/dt/veriael/flarum-polish.svg)](https://packagist.org/packages/veriael/flarum-polish)
 
->**FLARUM BETA 9 COMPATIBLE! / KOMPATYBILNE Z BETĄ 9 FLARUM!**
+>**KOMPATYBILNY Z BETĄ 9 FLARUM! / FLARUM BETA 9 COMPATIBLE!**
 
 **PL** Polska paczka językowa Flarum. Zawiera:
 
