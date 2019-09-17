@@ -3,7 +3,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Veriael/flarum-pl/blob/master/LICENSE) [![Latest Stable Version](https://img.shields.io/packagist/v/Veriael/flarum-polish.svg)](https://github.com/Veriael/flarum-pl)
 [![Packagist](https://img.shields.io/packagist/dt/veriael/flarum-polish.svg)](https://packagist.org/packages/veriael/flarum-polish)
-
+[![PackagistMonthly](https://img.shields.io/packagist/dm/veriael/flarum-polish)](https://packagist.org/packages/veriael/flarum-polish)
 >**KOMPATYBILNY Z BETĄ 10 [FLARUM](https://flarum.org)! / FLARUM BETA 10 COMPATIBLE!**
 
 **PL** Polska paczka językowa Flarum. Zawiera:
