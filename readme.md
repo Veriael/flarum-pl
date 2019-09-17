@@ -26,7 +26,7 @@
 composer require veriael/flarum-polish
 ```
 
-### Aktualizowanie / Updating
+### Aktualizacja / Updating
 ```bash
 composer remove veriael/flarum-polish
 composer require veriael/flarum-polish
