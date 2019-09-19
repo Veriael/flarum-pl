@@ -42,7 +42,7 @@ fajuu-icons:
       about_icons_text: |
         Tutaj możesz zmienić obecne ikony forum na jakiekolwiek tylko chcesz!
         Znajdź ikonę forum, którą chcesz zmienić (originalną ikonę), wprowadź ścieżkę do niej prowadzącą (ścieżka elementu) i wybierz ikonę (zmodyfikowana ikona).
-        Wszystkie ikony są częścią paczki ikon <a>Font Awesome</a>.
+        Wszystkie ikony są częścią pakietu ikon <a>Font Awesome</a>.
       settings_button: Ustawienia
       list_icons_button: Lista ikon
       import_icons_button: Importuj ikony
